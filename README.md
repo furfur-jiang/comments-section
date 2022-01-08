@@ -1,24 +1,19 @@
 # comments-section
 
-## Project setup
+### Use 
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm install&&npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Preview
 
-### Lints and fixes files
-```
-npm run lint
-```
+![image-20220108225855345](./public/image-20220108225855345.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Introduce
+
+1. 输入内容，点击add comment即可添加一条新评论
+2. 点击[-]可以收起该评论下的回复
+3. 点击reply可以进行回复
+
